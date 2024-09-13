@@ -370,12 +370,9 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: center;
-
+  text-align: relative;
   .contact-icons {
     font-size: 2rem;
-	bottom: 0%; 
-	position: fixed;
     a {
       i::before {
         color: var(--global-text-color);
