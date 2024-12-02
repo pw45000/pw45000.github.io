@@ -19,6 +19,6 @@ My research broadly lies in Artificial Intelligence, Information Retrieval, and 
 
 Towards this end, my current research interests include: 
 - Retrieval Augmented Generation
-- Semiparametric and Nonparametric Retrieval Augmented LMs (e.g. [Evaluating kNN-LM](https://pw45000.github.io/assets/pdf/interpolation_knnlm_preprint.pdf))
+- Semiparametric and Nonparametric Retrieval-based LMs (e.g. [Evaluating kNN-LM](https://pw45000.github.io/assets/pdf/interpolation_knnlm_preprint.pdf))
 - Long-Context Language Modeling 
 - Self-Correction in LMs 
